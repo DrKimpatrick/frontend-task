@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board component Should render Board component 1`] = `
+<div
+  className="board"
+>
+  <img
+    alt="sprite"
+    key="0"
+    onClick={[Function]}
+    src="green.jpg"
+    style={
+      Object {
+        "height": 60,
+        "width": 60,
+      }
+    }
+  />
+  <span
+    key="i1"
+  >
+    <img
+      alt="sprite"
+      key="1"
+      onClick={[Function]}
+      src="green.jpg"
+      style={
+        Object {
+          "height": 60,
+          "width": 60,
+        }
+      }
+    />
+    <br />
+  </span>
+</div>
+`;
