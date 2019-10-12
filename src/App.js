@@ -1,13 +1,10 @@
 import React from 'react';
+import Test from './components/test';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Hackerbay Frontend-task
-        </p>
-      </header>
+      <Test />
     </div>
   );
 }
