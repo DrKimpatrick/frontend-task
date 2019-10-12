@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell component Should render cell component 1`] = `
+<img
+  className="square"
+  onClick={[Function]}
+  src="white.png"
+  style={
+    Object {
+      "width": 60,
+    }
+  }
+/>
+`;
+
+exports[`Cell component Should render test componet 1`] = `
+<img
+  className="square"
+  onClick={[Function]}
+  src="white.png"
+  style={
+    Object {
+      "width": 60,
+    }
+  }
+/>
+`;
+
+exports[`Test component Should render test componet 1`] = `
+<img
+  className="square"
+  onClick={[Function]}
+  src="white.png"
+  style={
+    Object {
+      "width": 60,
+    }
+  }
+/>
+`;
