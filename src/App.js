@@ -1,11 +1,9 @@
 import React from 'react';
-import Test from './components/test';
+import Puzzle from './components/Puzzle';
 
 function App() {
   return (
-    <div className="App">
-      <Test />
-    </div>
+    <Puzzle/>
   );
 }
 
